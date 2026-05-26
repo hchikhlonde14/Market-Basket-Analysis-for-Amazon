@@ -1,0 +1,18 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Anaconda environments
+.env
+venv/
+env/
+
+# Dataset files (optional)
+data/
+
+# Models
+models/*.pkl
+models/*.h5
